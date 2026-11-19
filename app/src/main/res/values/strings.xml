@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PozFiles</string>
+
+    <string name="section_storage">Накопители</string>
+    <string name="section_network">Сеть</string>
+    <string name="internal_storage">Внутренняя память</string>
+    <string name="usb_storage">USB-накопитель</string>
+    <string name="add_smb">Подключить папку SMB</string>
+    <string name="dlna_searching">Поиск DLNA…</string>
+    <string name="dlna_none">DLNA-серверов не найдено</string>
+    <string name="refresh">Обновить</string>
+
+    <string name="ram">Оперативная память</string>
+    <string name="free_ram">Освободить</string>
+    <string name="freed_ram">Освобождено %1$s</string>
+    <string name="freed_nothing">Освобождать нечего</string>
+    <string name="used_of">%1$s из %2$s</string>
+
+    <string name="empty_folder">Папка пуста</string>
+    <string name="loading">Загрузка…</string>
+    <string name="error_open">Не удалось открыть: %1$s</string>
+    <string name="no_permission">Нужен доступ к файлам</string>
+    <string name="grant">Разрешить</string>
+    <string name="pick_source">Выберите накопитель слева</string>
+    <string name="cant_open_file">Нет приложения, чтобы открыть этот файл</string>
+    <string name="remote_unsupported">Этот тип файлов открывается только с накопителей приставки</string>
+
+    <string name="smb_title">Общая папка SMB</string>
+    <string name="smb_host">Адрес компьютера или NAS</string>
+    <string name="smb_host_hint">192.168.0.10</string>
+    <string name="smb_user">Пользователь (пусто — гость)</string>
+    <string name="smb_password">Пароль</string>
+    <string name="smb_name">Название (необязательно)</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="delete">Удалить</string>
+    <string name="smb_edit">Изменить</string>
+</resources>

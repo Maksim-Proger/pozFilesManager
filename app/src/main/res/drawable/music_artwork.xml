@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Нота с большими отступами: плеер растягивает картинку на весь экран,
+     а так нота занимает только середину -->
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_music_note"
+    android:inset="32%" />
